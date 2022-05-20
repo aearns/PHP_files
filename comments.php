@@ -2,7 +2,7 @@
 
 # This is a sinlge line comment
 
-// This is a also single line comment
+// This is also a single line comment
 
 /* This is a multiple line comment
 line 2
