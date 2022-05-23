@@ -10,6 +10,7 @@ line 2
 
 echo "Hello World\n\n";  #This line prints out "Hello World"
 
-echo "This is a new line";
-
+echo "This is a new line\n";
+echo 2+9, " ", 9*7, "\n";
+echo 8*9;
 ?>
